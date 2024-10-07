@@ -1,3 +1,6 @@
+
+#RUN THIS FIRST - DON'T EDIT THE CODE
+
 import os
 
 def create_directories():
