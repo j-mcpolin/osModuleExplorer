@@ -8,7 +8,7 @@ Make sure you have Python 3.x installed on your computer.
 
 1. **Clone the Repository**
    
-2. **Navigate to the Project Directory:**:
+2. **Navigate to the Project Directory:**
    
 3. **Run the Program: Execute the main Python file:**:
    ```bash
