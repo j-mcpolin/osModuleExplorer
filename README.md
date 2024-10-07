@@ -10,10 +10,10 @@ Make sure you have Python 3.x installed on your computer.
    
 2. **Navigate to the Project Directory:**
    
-3. **Run the Program: Execute the main Python file:**:
+3. **Run the Program: Execute the main Python file:**
    ```bash
    CreateDirectories.py
 
-4. **Write the Program: Edit the python file:**:
+4. **Write the Program: Edit the python file:**
    ```bash
    YourTask.py
